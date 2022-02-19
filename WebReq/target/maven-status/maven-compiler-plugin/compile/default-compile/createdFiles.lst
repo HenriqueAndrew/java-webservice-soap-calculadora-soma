@@ -1,0 +1,11 @@
+br/cli/SomarResponse.class
+br/cli/ObjectFactory.class
+br/cli/WsServicoCalc.class
+br/resources/JavaEE8Resource.class
+br/cli/Hello.class
+br/cli/WsServicoCalc_Service.class
+br/JAXRSConfiguration.class
+br/cli/Somar.class
+br/web/JSFrequest.class
+br/cli/HelloResponse.class
+br/cli/package-info.class
